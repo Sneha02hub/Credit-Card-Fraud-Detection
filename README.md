@@ -27,6 +27,25 @@ Structured notebook flow with clear section headings.
 Detailed in-line comments explaining every major step.
 Easy to understand and replicate for future users.
 
-Dataset
+#Dataset
 The dataset used for this project can be found at: https://www.kaggle.com/datasets/kartik2112/fraud-detection
 Please download the dataset manually from Kaggle and upload it to your Colab environment or local machine before running the notebook.
+
+# Steps to Run the Project
+
+1] Clone the Repository:
+
+git clone https://github.com/your-username/Credit_card_Fraud_Detection.git
+cd Credit_card_Fraud_Detection
+
+2] Download and Prepare the Dataset
+Download the dataset from this Kaggle link: https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
+3] Upload it into your working directory.
+
+4] Run the Notebook
+Open the notebook using Jupyter Notebook or Google Colab:
+
+jupyter notebook Credit_card_Fraud_Detection.ipynb
+
+5] Follow each code cell sequentially.
